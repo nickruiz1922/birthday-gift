@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    background-image: linear-gradient(black, rgb(175, 151, 120));
+    color: #ffff;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#age {
+    background: rgb(175, 151, 120);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#date {
+    margin: 0;
+    background: rgb(175, 151, 120);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid rgb(175, 151, 120);
+    margin-bottom: 10px;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0px;
+}
+
+.gift-img {
+    margin: 0 auto;
+    background: rgb(31, 27, 14);
+    background-image: url("images/ribbon1.png");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+#gift-img-happy:hover {
+    background-image: url("https://media.giphy.com/media/NQyH0HkYNTZvE8TEH2/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-hot:hover {
+    background-image: url("https://media.giphy.com/media/EODU719eeOHoQ/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-genius:hover {
+    background-image: url("https://media.giphy.com/media/jncb7lHMdHkmdBrUQ2/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-badass:hover {
+    background-image: url("https://media.giphy.com/media/l0HlzXChMUZ8Olaxy/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-cheers {
+    height: 200px;
+    background-image: url("images/ribbon1.png");
+    background-size: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+    background-size: cover;
+}
+
+#footer {
+    width: 400px;
+    margin: 40px auto 20px;
+    font-style: italic;  
+}
+
+a {
+    color: white;
+}
