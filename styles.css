@@ -60,22 +60,22 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("https://media.giphy.com/media/NQyH0HkYNTZvE8TEH2/giphy.gif");
+    background-image: url("images/happy.gif");
     background-size: cover;
 }
 
 #gift-img-hot:hover {
-    background-image: url("https://media.giphy.com/media/EODU719eeOHoQ/giphy.gif");
+    background-image: url("images/hot.gif");
     background-size: cover;
 }
 
 #gift-img-genius:hover {
-    background-image: url("https://media.giphy.com/media/jncb7lHMdHkmdBrUQ2/giphy.gif");
+    background-image: url("images/genius.gif");
     background-size: cover;
 }
 
 #gift-img-badass:hover {
-    background-image: url("https://media.giphy.com/media/l0HlzXChMUZ8Olaxy/giphy.gif");
+    background-image: url("images/badass.gif");
     background-size: cover;
 }
 
@@ -86,7 +86,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover {
-    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+    background-image: url("images/cheers.gif");
     background-size: cover;
 }
 
